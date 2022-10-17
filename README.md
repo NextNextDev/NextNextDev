@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Fun fact: 
-<------- This image is drawn by artificial intelligence.
+⚡ Fun fact:  
+<------- This eye is drawn by artificial intelligence.
