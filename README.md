@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am extensions developer
 
-My freelance profile: [click](https://freelancehunt.com/freelancer/nextnextdev.html)
+My freelance profile: [freelancehunt](https://freelancehunt.com/freelancer/nextnextdev.html), [upwork](https://www.upwork.com/freelancers/~01b6058ba9f48a9cb1?mp_source=share)
 <!--
 **NextNextDev/NextNextDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
